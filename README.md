@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Abubakar.
-- 👀 I’m interested in Blockchains & Cybersecurity.
-- 🌱 I’m currently learning Ethical Hacking & Defi 
-- 💞️ I’m looking to collaborate on Projects😜
-- 📫 How to reach me @wambankigo on X(twitter.)
+- 👋 Hi, 
+- 👀 I’m interested in AI, Blockchains & Cybersecurity.
+- 🌱 I’m currently messing around in Web3
+- 💞️ I’m looking to collaborate on DePIN Projects😜
+- 📫 How to reach me @Arewa_Marines on X(twitter.)
 
 <!---
 Abubakar4U/Abubakar4U is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
